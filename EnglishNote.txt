@@ -1,0 +1,45 @@
+
+1.Material 材料
+2.Design 设计
+3.Navigation 导航（导航栏）
+4.Bar 条，棒
+5.explore 探索
+6.Usage 使用，用法
+7.Single 单身的，单一的
+8.Enroll 参加，登记
+9.Order 命令、顺序
+10.normal 标准的 正常的 正规的
+11.preference 优先权、偏好
+12.temp 临时的
+13.inset 插入 
+14.draft 草稿 drafts 草稿箱
+15.Monitor 监视器，监控人
+16.Case 用例、实例
+17.preview 预览 预演
+18.Hardware 计算机硬件
+19.canary 金丝雀 人名
+20.platform 平台 讲台
+21.deal 交易 生意
+22.slave 奴隶 苦干 拼命工作
+23.install 安装 任命
+24.repository 仓库 
+25.above 超过 在....之上
+26.behavior 行为 举止 态度
+27.external 外面的 外部的 表面的
+28.part 零件 角色 部分
+29.storage 仓库 存储 贮藏所
+30.mounted 安装好的
+31.concat 合并 合并多个字符串
+32.divider 分隔
+33.unit 单位
+34.money
+35.sum 金额 总数 概括
+36.gratis 免费的
+37.sunshine 阳光 快活
+38.grade 考试分数
+39.description 描述，说明书
+40.random 随机的 随意的
+41.answer 答案
+42.repository 仓库
+43.diff 扩散器 扩充
+44.Option 选项
